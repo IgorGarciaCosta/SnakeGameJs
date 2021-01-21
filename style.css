@@ -1,0 +1,10 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    font-family:cursive;
+    justify-content: center;/*horizontalmente no meio*/
+    align-items:center ;/*verticalmente no meio*/
+    flex-direction: column;/*coloca um elemento abaixo do outro*/
+    color: rgb(44, 139, 44);
+}
